@@ -1,0 +1,13 @@
+C:\Users\uiiaa\source\repos\BankAccountDio\bin\Debug\netcoreapp3.1\BankAccountDio.exe
+C:\Users\uiiaa\source\repos\BankAccountDio\bin\Debug\netcoreapp3.1\BankAccountDio.deps.json
+C:\Users\uiiaa\source\repos\BankAccountDio\bin\Debug\netcoreapp3.1\BankAccountDio.runtimeconfig.json
+C:\Users\uiiaa\source\repos\BankAccountDio\bin\Debug\netcoreapp3.1\BankAccountDio.runtimeconfig.dev.json
+C:\Users\uiiaa\source\repos\BankAccountDio\bin\Debug\netcoreapp3.1\BankAccountDio.dll
+C:\Users\uiiaa\source\repos\BankAccountDio\bin\Debug\netcoreapp3.1\BankAccountDio.pdb
+C:\Users\uiiaa\source\repos\BankAccountDio\obj\Debug\netcoreapp3.1\BankAccountDio.csprojAssemblyReference.cache
+C:\Users\uiiaa\source\repos\BankAccountDio\obj\Debug\netcoreapp3.1\BankAccountDio.AssemblyInfoInputs.cache
+C:\Users\uiiaa\source\repos\BankAccountDio\obj\Debug\netcoreapp3.1\BankAccountDio.AssemblyInfo.cs
+C:\Users\uiiaa\source\repos\BankAccountDio\obj\Debug\netcoreapp3.1\BankAccountDio.csproj.CoreCompileInputs.cache
+C:\Users\uiiaa\source\repos\BankAccountDio\obj\Debug\netcoreapp3.1\BankAccountDio.dll
+C:\Users\uiiaa\source\repos\BankAccountDio\obj\Debug\netcoreapp3.1\BankAccountDio.pdb
+C:\Users\uiiaa\source\repos\BankAccountDio\obj\Debug\netcoreapp3.1\BankAccountDio.genruntimeconfig.cache
